@@ -12,7 +12,7 @@ typedef struct node
 } node;
 
 
-typedef struct{
+typedef struct{ 
   node* head;
 } stack;
 
